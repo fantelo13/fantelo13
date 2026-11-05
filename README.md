@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **more about Docker & Kubernetes**
 
-- 👯 I’m looking to collaborate on **Challeging Projects**
+- 👯 I’m looking to collaborate on **Challeging & Ambitious Projects**
 
 - 💬 Ask me about **ruby ♦️**
 
-- ⚡ Fun fact **On my free time, I develop game and other fun projects**
+- ⚡ Fun fact **On my free time, I develop games and other fun projects**
 
 - 👾 Check some of my games at [itch.io](https://f-antelo-13.itch.io/)
 
-- 👇 Me right now, probably (yes, I totally am Jim Carrey) 
+- 👇 Me right now...probably (yes I totally am Jim Carrey) 
 
 ###
 
